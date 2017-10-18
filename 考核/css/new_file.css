@@ -1,0 +1,253 @@
+* {
+	margin: 0 auto;
+}
+
+footer {
+	background-color: #efefef;
+	text-align: center;
+	height: 70px;
+	line-height: 5;
+	font-size: smaller;
+	color: #989898;
+}
+
+.table1 {
+	background-image: url(../img/back.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+a {
+	text-decoration: none;
+	color: #EFEFEF;
+}
+
+span {
+	font-size: 1.6em;
+}
+
+.xz a:hover {
+	background-color: #EFEFEF;
+}
+
+.nav {
+	font-family: 汉仪黑荔枝体简;
+	color: white;
+	overflow: hidden;
+}
+
+.nav td {
+	height: 60px;
+	width: 600px;
+}
+
+.nav li {
+	display: inline;
+	padding: 8px 35px 12px;
+	text-decoration: none;
+	height: 60px;
+}
+
+.logo1 {
+	background: url(../img/logo.png);
+	width: 60px;
+	height: 60px;
+	margin: 5px 170px 0;
+}
+
+.ggfont {
+	color: white;
+	font-size: xx-large;
+	font-family: 思源黑体;
+	margin: 10px 80px 20px;
+	width: 200px;
+	align-content: center;
+	padding: 20px 0;
+	overflow: hidden;
+}
+
+.logoA {
+	background: url(../img/android.png);
+	width: 40px;
+	height: 70px;
+	background-repeat: no-repeat;
+	color: #FB6B6C;
+	position: relative;
+	overflow: hidden;
+	-webkit-transition: all 0.3s;
+}
+
+.logoB {
+	background: url(../img/ios.png);
+	width: 20px;
+	height: 60px;
+	background-repeat: no-repeat;
+	position: relative;
+	overflow: hidden;
+	-webkit-transition: all 1s;
+}
+
+.logoC {
+	background: url(../img/wp.png);
+	width: 20px;
+	height: 60px;
+	background-repeat: no-repeat;
+	position: relative;
+	overflow: hidden;
+	-webkit-transition: all 1s;
+	
+}
+.logoA:hover {
+	top: -60px;
+	border-top: 60px solid transparent;
+	-webkit-filter: drop-shadow(0px 60px 0 #FD6868);
+	filter: drop-shadow( 0px 60px 0px red);
+}
+
+.logoB:hover {
+	top: -60px;
+	border-top: 60px solid transparent;
+	-webkit-filter: drop-shadow(0px 60px 0 #FD6868);
+	filter: drop-shadow( 0px 60px 0px red);
+}
+
+.logoC:hover {
+	top: -60px;
+	border-top: 60px solid transparent;
+	-webkit-filter: drop-shadow(0px 60px 0 #FD6868);
+	filter: drop-shadow( 0px 60px 0px red);
+}
+
+.content {
+	width: 900px;
+	height: 150px;
+	padding: 0;
+}
+
+.content2 {
+	width: 900px;
+	height: 155px;
+	margin: 100px;
+}
+
+.content4 {
+	width: 900px;
+	height: 20px;
+}
+
+.content2 p {
+	color: white;
+	font-size: larger;
+	margin: 70px 200px 0px 220px;
+}
+
+.content2 td {
+	padding: 0 0 40px;
+}
+
+.phone {
+	background: url(../img/phone.png);
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 570px;
+}
+
+.table-font1 {
+	color: #efefef;
+	font-family: SourceHanSansCN-Light;
+	text-align: center;
+}
+
+.table-font2 {
+	color: white;
+	font-family: 思源黑体;
+	background: #FB6B6C;
+	width: 90px;
+	height: 20px;
+	border-radius: 5px;
+	margin: -35px 0px 0 650px;
+}
+
+.xdjdan {
+	color: white;
+	font-size: x-large;
+	text-align: center;
+}
+
+.xiazai {
+	background: url(../img/QR code.png);
+	width: 100px;
+	height: 100px;
+	border-radius: 5px;
+	background-repeat: no-repeat;
+	margin: -102px 10px 95px 200px;
+}
+
+.2content {
+	width: 900px;
+	height: 400px;
+	background-color: white;
+}
+
+.XZ {
+	width: 180px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	margin: 0px 300px 0px;
+	float: left;
+	font-size: 30px;
+	color: #FFFFFF;
+	border-radius: 10px;
+	background: #fb6c6d;
+	-webkit-transition: all 0.3s;
+}
+
+a.XZ:hover {
+	background: #fd6868;
+}
+
+.background2 {
+	width: 80px;
+	height: 100px;
+	background-repeat: no-repeat;
+	position: relative;
+	border-radius: 10px 0 0 10px;
+	margin: 0px 228px -104px;
+}
+
+.content3 {
+	width: 1024px;
+	height: 400px;
+	background-color: white;
+}
+
+.content3 img {
+	margin: 30px 50px;
+	padding: 0 20px;
+}
+
+.content3 td {
+	padding: 0 0px 80px;
+	font-size: larger;
+	text-align: center;
+}
+
+.2-logo1 {
+	width: 25%;
+	height: 400px;
+}
+
+.2-logo2 {
+	width: 25%;
+	height: 400px;
+}
+
+.2-logo3 {
+	width: 25%;
+}
+
+.2-logo4 {
+	width: 25%;
+	height: 400px;
+}
